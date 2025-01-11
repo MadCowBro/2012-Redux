@@ -426,7 +426,7 @@ document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#E8FBFF!important;}</style>";
 
-HistHexColour=["#0000FF","#FF0000","#FFFF00","#00C100"]; HistName=[" Barack Obama"," Mitt Romney"," Gary Johnson"," Jill Stein"]; HistEV=[332,206,0,0]; HistPV=["65,915,795","60,933,504","1,275,971","469,627"]; HistPVP=["51.1%","47.2%","1.0%","0.4%"];
+HistHexcolour=["#0000FF","#FF0000","#FFFF00","#00C100"]; HistName=[" Barack Obama"," Mitt Romney"," Gary Johnson"," Jill Stein"]; HistEV=[332,206,0,0]; HistPV=["65,915,795","60,933,504","1,275,971","469,627"]; HistPVP=["51.1%","47.2%","1.0%","0.4%"];
 
 RecReading = true
 
